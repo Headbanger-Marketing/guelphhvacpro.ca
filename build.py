@@ -10,15 +10,15 @@ import os, re, html
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # ------------------------------------------------------------------ CONFIG
-SITE_NAME   = "Guelph Heating & Cooling"
-SHORT_NAME  = "Guelph Heating &amp; Cooling"
+SITE_NAME   = "Guelph HVAC Pro"
+SHORT_NAME  = "Guelph HVAC Pro"
 DOMAIN      = "https://guelphhvacpro.ca"
 CITY        = "Guelph"
 REGION      = "Ontario"
 REGION_ABBR = "ON"
 COUNTY      = "Wellington County"
-PHONE_DISPLAY = "(548) 490-5216"
-PHONE_TEL     = "+15484905216"
+PHONE_DISPLAY = "(519) 820-6333"
+PHONE_TEL     = "+15198206333"
 EMAIL         = "contact@guelphhvacpro.ca"
 ADDR_STREET   = "130 Silvercreek Pkwy N"
 ADDR_LOCALITY = "Guelph"
@@ -93,11 +93,7 @@ LOGO_MARK = '''<svg class="brand__mark" viewBox="0 0 48 48" fill="none" xmlns="h
 def brand(footer=False):
     cls = "brand footer-brand" if footer else "brand"
     return f'''<a class="{cls}" href="/" aria-label="{SITE_NAME} home">
-      {LOGO_MARK}
-      <span class="brand__text">
-        <span class="brand__name">{CITY}</span>
-        <span class="brand__tag">Heating &amp; Cooling</span>
-      </span>
+      <img class="brand__logo" src="/assets/img/logo.png" alt="{SITE_NAME}" loading="eager" decoding="async">
     </a>'''
 
 # ------------------------------------------------------------------ NAV / SERVICES DATA
@@ -278,7 +274,7 @@ def head(title, desc, path, schema_blocks=None, og_type="website", robots="index
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="{robots}">
-<meta name="theme-color" content="14532d">
+<meta name="theme-color" content="#102050">
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{title}">
