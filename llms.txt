@@ -20,8 +20,6 @@ Service areas: Guelph, Georgetown, Milton, Fergus, Elora, Acton, Rockwood
 - [Duct Cleaning](https://guelphhvacpro.ca/services/duct-cleaning/): Duct Cleaning in Guelph, Ontario
 - [Thermostats](https://guelphhvacpro.ca/services/thermostat-repair-replacement/): Thermostats in Guelph, Ontario
 - [Ductless AC Installation](https://guelphhvacpro.ca/services/ductless-ac-installation/): Ductless AC Installation in Guelph, Ontario
-- [Fireplace Installation](https://guelphhvacpro.ca/services/fireplace-installation/): Fireplace Installation in Guelph, Ontario
-- [Boiler Service](https://guelphhvacpro.ca/services/boiler-service/): Boiler Service in Guelph, Ontario
 
 ## FAQ
 
