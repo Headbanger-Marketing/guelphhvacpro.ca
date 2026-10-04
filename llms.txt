@@ -1,28 +1,28 @@
 # Guelph HVAC Pro
 
-> Guelph HVAC Pro is a local HVAC company serving Guelph, Wellington County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+> Heating and cooling requests for Guelph. Heat pump repair and installation guidance covers diagnosis of heating and cooling faults and assessment of replacement equipment.
 
-Phone: (548) 490-5216  |  Email: contact@guelphhvacpro.ca  |  Website: https://guelphhvacpro.ca
+Phone: +15484905216  |  Email: contact@guelphhvacpro.ca  |  Website: https://guelphhvacpro.ca
 
-Service areas: Guelph, Georgetown, Milton, Fergus, Elora, Acton, Rockwood
+Request locations: Guelph, Georgetown, Milton, Fergus, Elora, Acton, Rockwood. Coverage and availability require provider confirmation.
 
 ## Key pages
 
-- [Home](https://guelphhvacpro.ca/): Guelph HVAC Pro homepage with service overview and FAQ
-- [About](https://guelphhvacpro.ca/about/): About the company and service area
-- [Contact](https://guelphhvacpro.ca/contact/): Request a free quote or service call
+- [Home](https://guelphhvacpro.ca/): Service request overview and equipment guidance
+- [About](https://guelphhvacpro.ca/about/): Website and inquiry process
+- [Contact](https://guelphhvacpro.ca/contact/): Submit a service inquiry
 
 ## Services
 
-- [Furnace Installation & Repair](https://guelphhvacpro.ca/services/furnace-repair/): Furnace Installation & Repair in Guelph, Ontario
-- [AC Installation & Repair](https://guelphhvacpro.ca/services/ac-repair/): AC Installation & Repair in Guelph, Ontario
-- [Heat Pumps](https://guelphhvacpro.ca/services/heat-pump-repair-installation/): Heat Pumps in Guelph, Ontario
-- [Duct Cleaning](https://guelphhvacpro.ca/services/duct-cleaning/): Duct Cleaning in Guelph, Ontario
-- [Thermostats](https://guelphhvacpro.ca/services/thermostat-repair-replacement/): Thermostats in Guelph, Ontario
-- [Ductless AC Installation](https://guelphhvacpro.ca/services/ductless-ac-installation/): Ductless AC Installation in Guelph, Ontario
-- [Fireplace Installation](https://guelphhvacpro.ca/services/fireplace-installation/): Fireplace Installation in Guelph, Ontario
-- [Boiler Service](https://guelphhvacpro.ca/services/boiler-service/): Boiler Service in Guelph, Ontario
+- [Furnace Installation & Repair](https://guelphhvacpro.ca/services/furnace-repair/): Furnace Installation & Repair guidance and requests in Guelph, Ontario
+- [AC Installation & Repair](https://guelphhvacpro.ca/services/ac-repair/): AC Installation & Repair guidance and requests in Guelph, Ontario
+- [Heat Pumps](https://guelphhvacpro.ca/services/heat-pump-repair-installation/): Heat Pumps guidance and requests in Guelph, Ontario
+- [Duct Cleaning](https://guelphhvacpro.ca/services/duct-cleaning/): Duct Cleaning guidance and requests in Guelph, Ontario
+- [Thermostats](https://guelphhvacpro.ca/services/thermostat-repair-replacement/): Thermostats guidance and requests in Guelph, Ontario
+- [Ductless AC Installation](https://guelphhvacpro.ca/services/ductless-ac-installation/): Ductless AC Installation guidance and requests in Guelph, Ontario
+- [Fireplace Installation](https://guelphhvacpro.ca/services/fireplace-installation/): Fireplace Installation guidance and requests in Guelph, Ontario
+- [Boiler Service](https://guelphhvacpro.ca/services/boiler-service/): Boiler Service guidance and requests in Guelph, Ontario
 
 ## FAQ
 
-Common questions about HVAC service in Guelph are answered on the homepage.
+Questions about heating and cooling requests in Guelph are addressed on the homepage.
